@@ -1,0 +1,8 @@
+Write method references for the following cases:
+a. Convert string to title case.
+b. Convert string to camel case.
+c. Remove spaces from string.
+d. Count number of vowels in a string.
+e. Count number of consonants in a string
+f. Count number of alphabets in a string
+g. Count number of words in a string
