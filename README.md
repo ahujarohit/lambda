@@ -1,8 +1,10 @@
 
 **Mastering Lambda Expressions in Java**
+
 https://youtu.be/QvlxL6s4CFs?si=T-WM1PlaU2Hh2Ake
 
-**Doubts, Queries and Custom Trainings: **
+**Doubts, Queries and Custom Trainings:**
+
 WhatsApp 8109000401
 
 **Mastering Lambda Expressions in Java**
