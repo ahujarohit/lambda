@@ -1,7 +1,7 @@
 
 **Mastering Lambda Expressions in Java**
 
-[[https://youtu.be/QvlxL6s4CFs?si=T-WM1PlaU2Hh2Ake](https://www.youtube.com/playlist?list=PLzrb6iZd6X9Jsu88Plc5s1T_L9ti19yZ8)](https://www.youtube.com/playlist?list=PLzrb6iZd6X9Jsu88Plc5s1T_L9ti19yZ8)
+https://www.youtube.com/playlist?list=PLzrb6iZd6X9Jsu88Plc5s1T_L9ti19yZ8
 
 **Doubts, Queries and Custom Trainings:**
 
